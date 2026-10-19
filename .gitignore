@@ -1,0 +1,20 @@
+# Python
+
+venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data
+data/
+
+# Reports
+reports/*.png
+reports/*.html
+
+# OS
+.DS_Store
+
+# Packaging
+*.egg-info
